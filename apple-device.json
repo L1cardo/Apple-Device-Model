@@ -1,11 +1,3 @@
-# Apple Device Model Name
-> Update time: 2020-10-18
-
-You can use this [link](https://github.com/L1cardo/Apple-Device-Model/raw/main/apple-device.json) to see the raw data.
-
-Or you can just copy the json file below.
-
-```json
 {
     "version": "2020-10-18",
     "content": {
@@ -232,4 +224,3 @@ Or you can just copy the json file below.
         "arm64": "Simulator"
     }
 }
-```
