@@ -1,5 +1,5 @@
 # Apple Device Model Name
-> Update time: 2020-10-18
+> Update time: 2021-07-03
 
 You can use this [link](https://github.com/L1cardo/Apple-Device-Model/raw/main/apple-device.json) to see the raw data.
 
@@ -7,7 +7,7 @@ Or you can just copy the json file below.
 
 ```json
 {
-    "version": "2020-10-18",
+    "version": "2021-07-03",
     "content": {
         "iPhone1,1": "iPhone",
         "iPhone1,2": "iPhone 3G",
@@ -115,6 +115,14 @@ Or you can just copy the json file below.
         "iPad8,10": "iPad Pro (11-inch) (2nd generation)",
         "iPad8,11": "iPad Pro (12.9-inch) (4th generation)",
         "iPad8,12": "iPad Pro (12.9-inch) (4th generation)",
+        "iPad13,4": "iPad Pro (11-inch) (3rd generation)",
+        "iPad13,5": "iPad Pro (11-inch) (3rd generation)",
+        "iPad13,6": "iPad Pro (11-inch) (3rd generation)",
+        "iPad13,7": "iPad Pro (11-inch) (3rd generation)",
+        "iPad13,8": "iPad Pro (12.9-inch) (5th generation)",
+        "iPad13,9": "iPad Pro (12.9-inch) (5th generation)",
+        "iPad13,10": "iPad Pro (12.9-inch) (5th generation)",
+        "iPad13,11": "iPad Pro (12.9-inch) (5th generation)",
         "iPad7,11": "iPad (7th generation)",
         "iPad7,12": "iPad (7th generation)",
         "iPad11,6": "iPad (8th generation)",
@@ -152,6 +160,7 @@ Or you can just copy the json file below.
         "AppleTV3,2": "Apple TV (3rd generation Rev A)",
         "AppleTV5,3": "Apple TV (4th generation)",
         "AppleTV6,2": "Apple TV 4K",
+        "AppleTV11,1": "Apple TV 4K (2nd generation)",
 
         "AudioAccessory1,1": "HomePod",
         "AudioAccessory1,2": "HomePod",
@@ -183,9 +192,11 @@ Or you can just copy the json file below.
         "iMac19,2": "iMac (Retina 4K, 21.5-inch, 2019)",
         "iMac20,1": "iMac (Retina 5K, 27-inch, 2020)",
         "iMac20,2": "iMac (Retina 5K, 27-inch, 2020)",
+        "iMac21,1": "iMac (24-inch, M1, 2021)",
+        "iMac21,2": "iMac (24-inch, M1, 2021)",
 
         "iMacPro1,1": "iMac Pro",
-        
+
         "MacBook8,1": "MacBook (Retina, 12-inch, Early 2015)",
         "MacBook9,1": "MacBook (Retina, 12-inch, Early 2016)",
         "MacBook10,1": "MacBook (Retina, 12-inch, 2017)",
