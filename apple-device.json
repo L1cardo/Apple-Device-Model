@@ -1,5 +1,5 @@
 {
-    "version": "2021-07-03",
+    "version": "2021-11-07",
     "content": {
         "iPhone1,1": "iPhone",
         "iPhone1,2": "iPhone 3G",
@@ -34,14 +34,18 @@
         "iPhone11,4": "iPhone XS Max",
         "iPhone11,6": "iPhone XS Max",
         "iPhone11,8": "iPhone XR",
+        "iPhone12,1": "iPhone 11",
         "iPhone12,3": "iPhone 11 Pro",
         "iPhone12,5": "iPhone 11 Pro Max",
         "iPhone13,1": "iPhone 12 mini",
         "iPhone13,2": "iPhone 12",
         "iPhone13,3": "iPhone 12 Pro",
         "iPhone13,4": "iPhone 12 Pro Max",
-        "iPhone12,1": "iPhone 11",
-
+        "iPhone14,4": "iPhone 13 mini",
+        "iPhone14,5": "iPhone 13",
+        "iPhone14,2": "iPhone 13 Pro",
+        "iPhone14,3": "iPhone 13 Pro Max",
+        
         "iPod1,1": "iPod touch (1st generation)",
         "iPod2,1": "iPod touch (2nd generation)",
         "iPod3,1": "iPod touch (3rd generation)",
@@ -142,6 +146,8 @@
         "Watch6,2": "Apple Watch Series 6",
         "Watch6,3": "Apple Watch Series 6",
         "Watch6,4": "Apple Watch Series 6",
+        "Watch6,7": "Apple Watch Series 7",
+        "Watch6,9": "Apple Watch Series 7",
         "Watch5,9": "Apple Watch SE",
         "Watch5,10": "Apple Watch SE",
         "Watch5,11": "Apple Watch SE",
@@ -229,6 +235,10 @@
         "MacBookPro16,3": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
         "MacBookPro16,4": "MacBook Pro (16-inch, 2019)",
         "MacBookPro17,1": "MacBook Pro (13-inch, M1, 2020)",
+        "MacBookPro18,3": "MacBook Pro (14-inch, 2021)",
+        "MacBookPro18,4": "MacBook Pro (14-inch, 2021)",
+        "MacBookPro18,1": "MacBook Pro (16-inch, 2021)",
+        "MacBookPro18,2": "MacBook Pro (16-inch, 2021)",
 
         "x86_64": "Simulator",
         "i386": "Simulator",
