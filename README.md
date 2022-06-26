@@ -1,5 +1,5 @@
 # Apple Device Model Name
-> Update time: 2021-07-03
+> Update time: 2022-06-26
 
 You can use this [link](https://github.com/L1cardo/Apple-Device-Model/raw/main/apple-device.json) to see the raw data.
 
