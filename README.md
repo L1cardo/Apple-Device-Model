@@ -7,7 +7,7 @@ Or you can just copy the json file below.
 
 ```json
 {
-    "version": "2022-06-26",
+    "version": "2022-12-28",
     "content": {
         "iPhone1,1": "iPhone",
         "iPhone1,2": "iPhone 3G",
@@ -36,7 +36,6 @@ Or you can just copy the json file below.
         "iPhone10,2": "iPhone 8 Plus",
         "iPhone10,5": "iPhone 8 Plus",
         "iPhone12,8": "iPhone SE",
-        "iPhone14,6": "iPhone SE (3rd generation)",
         "iPhone10,3": "iPhone X",
         "iPhone10,6": "iPhone X",
         "iPhone11,2": "iPhone XS",
@@ -54,6 +53,11 @@ Or you can just copy the json file below.
         "iPhone14,3": "iPhone 13 Pro Max",
         "iPhone14,4": "iPhone 13 mini",
         "iPhone14,5": "iPhone 13",
+        "iPhone14,6": "iPhone SE (3rd generation)",
+        "iPhone14,7": "iPhone 14",
+        "iPhone14,8": "iPhone 14 Plus",
+        "iPhone15,2": "iPhone 14 Pro",
+        "iPhone15,3": "iPhone 14 Pro Max",
 
         "iPod1,1": "iPod touch (1st generation)",
         "iPod2,1": "iPod touch (2nd generation)",
